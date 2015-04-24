@@ -1,0 +1,33 @@
+.fa {
+  color: #444;
+}
+
+.fa:hover {
+  color: #888;
+}
+
+h1 {
+  font-family: 'Lily Script One', cursive;
+  font-size: 5em;
+  color: #444;
+}
+
+p {
+  font-family: 'Milonga', cursive;
+  color: #666;
+}
+
+#top {
+  margin-top: 1em;
+  margin-bottom: 3.25em;
+}
+
+h4 {
+  color: #444;
+  font-family: 'Della Respira', serif;
+  font-size: 1.2em;
+}
+
+.columns {
+  margin-bottom: 2.5em;
+}
