@@ -35,3 +35,9 @@ h4 {
 .columns {
   margin-bottom: 2.5em;
 }
+
+svg:hover {
+  opacity:0.75;
+  filter:alpha(opacity=75);
+  -moz-opacity: 0.75;
+}
